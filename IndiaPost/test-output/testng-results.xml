@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-22T15:36:24 IST" name="IndiaPost Application" finished-at="2023-12-22T15:36:35 IST" duration-ms="10576">
+    <groups>
+    </groups>
+    <test started-at="2023-12-22T15:36:24 IST" name="Test" finished-at="2023-12-22T15:36:35 IST" duration-ms="10576">
+      <class name="TestLayer.RegisterPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.RegisterPageTest@4550bb58]" started-at="2023-12-22T15:36:25 IST" name="setUp" finished-at="2023-12-22T15:36:33 IST" duration-ms="8046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidateTest()[pri:0, instance:TestLayer.RegisterPageTest@4550bb58]" started-at="2023-12-22T15:36:33 IST" name="ValidateTest" finished-at="2023-12-22T15:36:35 IST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTest -->
+      </class> <!-- TestLayer.RegisterPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- IndiaPost Application -->
+</testng-results>
